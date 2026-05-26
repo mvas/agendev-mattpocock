@@ -1,6 +1,7 @@
 {
   "name": "cadence-course-platform",
   "private": true,
+  "packageManager": "pnpm@11.2.0",
   "type": "module",
   "scripts": {
     "build": "react-router build",

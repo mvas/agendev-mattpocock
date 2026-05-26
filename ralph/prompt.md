@@ -38,8 +38,8 @@ Use /tdd to complete the task.
 
 Before committing, run the feedback loops:
 
-- `npm run test` to run the tests
-- `npm run typecheck` to run the type checker
+- `pnpm test` to run the tests
+- `pnpm typecheck` to run the type checker
 
 # COMMIT
 
